@@ -1,0 +1,13 @@
+body{
+	margin: 0px;
+}
+
+.header{
+	background: linear-gradient(#54123b, #29c7ac);
+    position: relative;
+    margin: 0px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
