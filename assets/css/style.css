@@ -942,7 +942,7 @@ a:hover {
   margin-bottom: 3rem;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  background-color: #ff323232f;
+  background-color: #fff;
 }
 
 .work-box:hover img {
@@ -963,7 +963,7 @@ a:hover {
 }
 
 .work-content .w-more {
-  color: #4e4e4e;
+  color: #fff;
   font-size: 0.8rem;
 }
 
