@@ -939,7 +939,7 @@ a:hover {
 # Portfolio
 --------------------------------------------------------------*/
 .work-box {
-  margin-bottom: 3rem;
+  margin-bottom: 4rem;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
@@ -990,8 +990,8 @@ a:hover {
 }
 
 .folio-img {
-  height: 240px;
-  width: 400px;
+  height: 15%;
+  width: 10%;
   object-fit: cover;
 }
 
